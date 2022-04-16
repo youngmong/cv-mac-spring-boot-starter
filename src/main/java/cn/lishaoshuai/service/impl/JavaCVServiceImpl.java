@@ -15,8 +15,8 @@ import java.util.Optional;
 /**
  * @author lss
  * @version 1.0
- * @date 2022/4/10 9:25 下午
- * @description 音视频处理实现类
+ * @since 2022/4/10 9:25 下午
+ * 音视频处理实现类
  */
 @Service("javaCVService")
 public class JavaCVServiceImpl implements JavaCVService {

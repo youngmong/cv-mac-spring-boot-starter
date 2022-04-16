@@ -1,5 +1,5 @@
 # cv-mac-spring-boot-starter
-##1.JavaCV是什么？
+## 1.JavaCV是什么？
 ```
 百度百科解释：
     JavaCV [1]  是一款基于JavaCPP [2]  调用方式（JNI的一层封装），由多种开源计算机视觉库组成的包装库，
@@ -16,12 +16,12 @@ JavaCV利用JavaCPP在FFmpeg和Java之间构建了桥梁，我们通过这个桥
 
 常用类有：FrameGrabber、FrameRecorder、FrameFilter等
 ---
-##2.JavaCV可以做哪些事情？
+## 2.JavaCV可以做哪些事情？
 ```
 JavaCV是计算机视觉领域的Java库，可以处理音视频，流媒体，图像处理，智能识别等工作。
 ```
 ---
-##3.如何使用cv-mac-spring-boot-starter？
+## 3.如何使用cv-mac-spring-boot-starter？
 (1) springboot项目中直接引用下面的依赖
 ```
 <dependency>

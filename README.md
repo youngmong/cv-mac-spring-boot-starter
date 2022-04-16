@@ -22,6 +22,7 @@ JavaCV是计算机视觉领域的Java库，可以处理音视频，流媒体，�
 ```
 ---
 ## 3.如何使用cv-mac-spring-boot-starter？
+
 (1) springboot项目中直接引用下面的依赖
 ```
 <dependency>
